@@ -14,3 +14,12 @@ http://rodriguezandres.github.io/2017/01/18/jupyter-aws/
 
 **EC2 Image Migration from 1 AWS Account to Another**
 https://aws.amazon.com/premiumsupport/knowledge-center/account-transfer-ec2-instance/
+
+**Awesome CS Courses**
+https://github.com/prakhar1989/awesome-courses#algorithms
+
+**Algo Visualization**
+https://visualgo.net/en
+
+**Competitive programming**
+https://codeforces.com/blog/entry/23054
