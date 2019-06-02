@@ -23,3 +23,6 @@ https://visualgo.net/en
 
 **Competitive programming**
 https://codeforces.com/blog/entry/23054
+
+**Data Science FAQs**
+https://www.reddit.com/r/datascience/wiki/frequently-asked-questions
