@@ -26,3 +26,6 @@ https://codeforces.com/blog/entry/23054
 
 **Data Science FAQs**
 https://www.reddit.com/r/datascience/wiki/frequently-asked-questions
+
+**Server from scratch**
+https://bhch.github.io/posts/2017/11/writing-an-http-server-from-scratch/
